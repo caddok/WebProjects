@@ -1,1 +1,0 @@
-console.error("\nC:\\WebProjects\\Chattrbox\\app\\scripts\\src\\main.js:1\nimport ChatApp from './app.mjs';\r\n^\nParseError: 'import' and 'export' may appear only with 'sourceType: module'");
